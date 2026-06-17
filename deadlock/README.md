@@ -1,7 +1,7 @@
 # Deadlock
 deadlock_reprodução:
 
-<img width="307" height="172" alt="image" src="https://github.com/user-attachments/assets/acc74041-b758-476e-b42e-81663c353edc" />
+<img width="237" height="106" alt="image" src="https://github.com/user-attachments/assets/4ac3bec3-e139-44de-a4a2-39dc212698d9" />
 
 
 deadlock_corrigido:
