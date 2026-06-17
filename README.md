@@ -1,4 +1,5 @@
 # Nome: Lucas Gabriel Nunes dos Santos
+# Grupo: TDE21
 # Link do video: https://youtu.be/bMbJ1P6ieGo ou https://www.youtube.com/watch?v=bMbJ1P6ieGo
 # Filósofos
 Na versão ingênua, todos os filósofos podem pegar simultaneamente o garfo da esquerda e ficar esperando o da direita, formando um ciclo de espera e causando deadlock.
