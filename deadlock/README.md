@@ -1,8 +1,11 @@
 # Deadlock
 deadlock_reprodução:
+
 <img width="307" height="172" alt="image" src="https://github.com/user-attachments/assets/acc74041-b758-476e-b42e-81663c353edc" />
 
+
 deadlock_corrigido:
+
 <img width="267" height="169" alt="image" src="https://github.com/user-attachments/assets/aa3397d9-680d-4c9a-9285-c24f5690b76e" />
 
 Por que ocorre o deadlock?
