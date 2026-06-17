@@ -16,6 +16,6 @@ Executar python FilosofoIngenuo.py e python FilosoOrdenado.py
 | Com semáforo      | 2        | 1600000  | 1600000 | 3.0737    |
 | Com semáforo      | 3        | 1600000  | 1600000 | 3.2294    |
 
-Executar Parte 2 - Contador Concorrente
+Executar Parte 2 - 
 python SemSincronizacao.py
 python Semaforo.py
