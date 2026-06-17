@@ -1,5 +1,5 @@
 # Nome: Lucas Gabriel Nunes dos Santos
-
+# Link do video: https://youtu.be/bMbJ1P6ieGo ou https://www.youtube.com/watch?v=bMbJ1P6ieGo
 # Filósofos
 Na versão ingênua, todos os filósofos podem pegar simultaneamente o garfo da esquerda e ficar esperando o da direita, formando um ciclo de espera e causando deadlock.
 Na versão corrigida, todos os filósofos adquirem primeiro o garfo de menor índice e depois o de maior índice.
