@@ -19,3 +19,7 @@ Executar python FilosofoIngenuo.py e python FilosoOrdenado.py
 Executar Parte 2 - 
 python SemSincronizacao.py
 python Semaforo.py
+
+
+# Deadlock
+<img width="307" height="172" alt="image" src="https://github.com/user-attachments/assets/acc74041-b758-476e-b42e-81663c353edc" />
